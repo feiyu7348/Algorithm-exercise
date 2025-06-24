@@ -56,16 +56,17 @@ func select_sort(nums []int) []int {
 
 func insert_sort(nums []int) []int {
 	n := len(nums)
-	for i := 1; i < n; i++ {
-		base := nums[i]
-		j := i - 1
+	for i := 1; i < n; i++ { // 从第二个元素开始遍历
+		base := nums[i] // 当前待插入元素
+		j := i - 1      // 指向已排序部分的最后一个元素
+
+		// 从后向前扫描，寻找插入位置
 		for ; j >= 0 && nums[j] > base; j-- {
-			nums[j+1] = nums[j]
+			nums[j+1] = nums[j] // 元素后移
 		}
 
-		nums[j+1] = base
+		nums[j+1] = base // 插入元素
 	}
-
 	return nums
 }
 
