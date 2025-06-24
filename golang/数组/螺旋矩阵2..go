@@ -4,6 +4,9 @@ func generateMatrix(n int) [][]int {
 	left, right := 0, n-1
 	top, bottom := 0, n-1
 	matrix := make([][]int, n)
+	for i := range matrix {
+		matrix[i] = make([]int, n)
+	}
 	num := 1
 	tar := n * n
 
