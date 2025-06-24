@@ -1,4 +1,4 @@
-package main
+package listNode
 
 func reverseListNode(head *ListNode) *ListNode {
 	if head == nil || head.Next == nil {

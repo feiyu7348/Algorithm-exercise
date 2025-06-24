@@ -1,4 +1,4 @@
-package main
+package arrays
 
 func validMountainArray(arr []int) bool {
 	n := len(arr)

@@ -1,3 +1,5 @@
+package arrays
+
 /*
 从列表 nums 中移除值为 val 的元素，并返回新的列表长度。
 
@@ -15,7 +17,6 @@
 >>> nums
 [2, 2]
 */
-package main
 
 func removeElment(muns []int, val int) int {
 	// 快慢指针，快指针遍历，慢指针记录

@@ -1,4 +1,4 @@
-package main
+package listNode
 
 func removeElement(head *ListNode, val int) {
 	dummy := &ListNode{Next: head}

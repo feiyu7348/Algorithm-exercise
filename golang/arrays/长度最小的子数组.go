@@ -1,4 +1,4 @@
-package main
+package arrays
 
 func minSubArrayLen(target int, nums []int) int {
 	n := len(nums)

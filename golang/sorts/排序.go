@@ -1,8 +1,6 @@
-package main
+package sorts
 
-import "fmt"
-
-func search(nums []int, target int) int {
+func Search(nums []int, target int) int {
 	n := len(nums)
 	left, right := 0, n-1
 	for left <= right {
@@ -19,7 +17,7 @@ func search(nums []int, target int) int {
 	return -1
 }
 
-func bubble_sort(nums []int) []int {
+func BubbleSort(nums []int) []int {
 	n := len(nums)
 	for i := 0; i < n-1; i++ {
 		flag := false
@@ -38,7 +36,7 @@ func bubble_sort(nums []int) []int {
 	return nums
 }
 
-func select_sort(nums []int) []int {
+func SelectSort(nums []int) []int {
 	n := len(nums)
 	for i := 0; i < n-1; i++ {
 		min_index := i
@@ -54,7 +52,7 @@ func select_sort(nums []int) []int {
 	return nums
 }
 
-func insert_sort(nums []int) []int {
+func InsertSort(nums []int) []int {
 	n := len(nums)
 	for i := 1; i < n; i++ { // 从第二个元素开始遍历
 		base := nums[i] // 当前待插入元素
@@ -70,7 +68,7 @@ func insert_sort(nums []int) []int {
 	return nums
 }
 
-func quick_sort(nums []int) []int {
+func QuickSort(nums []int) []int {
 	n := len(nums)
 	if n < 2 {
 		return nums
@@ -86,14 +84,5 @@ func quick_sort(nums []int) []int {
 		}
 	}
 
-	return append(quick_sort(left), append([]int{pivot}, quick_sort(right)...)...)
-}
-
-func main() {
-	nums := []int{1, 3, 5, 7, 9, 2, 4, 6, 8, 10}
-	fmt.Println(search(nums, 10))
-	fmt.Println(bubble_sort(nums))
-	fmt.Println(select_sort(nums))
-	fmt.Println(insert_sort(nums))
-	fmt.Println(quick_sort(nums))
+	return append(QuickSort(left), append([]int{pivot}, QuickSort(right)...)...)
 }

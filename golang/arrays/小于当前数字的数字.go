@@ -1,4 +1,4 @@
-package main
+package arrays
 
 func smallerNumbersThanCurrent(nums []int) []int {
 	n := len(nums)

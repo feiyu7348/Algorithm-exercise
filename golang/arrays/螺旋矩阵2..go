@@ -1,4 +1,4 @@
-package main
+package arrays
 
 func generateMatrix(n int) [][]int {
 	left, right := 0, n-1

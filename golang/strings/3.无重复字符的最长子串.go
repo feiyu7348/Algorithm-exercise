@@ -1,4 +1,4 @@
-package leetcode
+package strings
 
 // 解法一 位图
 func lengthOfLongestSubstring(s string) int {
@@ -60,11 +60,4 @@ func lengthOfLongestSubstring2(s string) int {
 		res = max(res, left-right)
 	}
 	return res
-}
-
-func max(a int, b int) int {
-	if a > b {
-		return a
-	}
-	return b
 }
