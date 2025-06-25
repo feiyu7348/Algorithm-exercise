@@ -6,21 +6,23 @@
 
 ## 数组
 
-1. 二分查找
-2. 移除元素
-3. 有序数组的平方
-4. 长度最小的子数组
-5. 螺旋矩阵II
+1. 二分查找 [力扣](https://leetcode.cn/problems/binary-search/description/)
+2. 移除元素 [力扣](https://leetcode.cn/problems/remove-element/description/)
+3. 有序数组的平方 [力扣](https://leetcode.cn/problems/squares-of-a-sorted-array/description/)
+4. 长度最小的子数组 [力扣](https://leetcode.cn/problems/minimum-size-subarray-sum/description/)
+5. 螺旋矩阵II [力扣](https://leetcode.cn/problems/spiral-matrix-ii/description/)
+6. 山脉数组的峰顶索引 [力扣](https://leetcode.cn/problems/B1IidL/description/)
+7. 有多少小于当前数字的数字 [力扣](https://leetcode.cn/problems/how-many-numbers-are-smaller-than-the-current-number/description/)
 
 ## 链表
 
-1. 移除链表元素
-2. 设计链表
-3. 翻转链表
-4. 两两交换链表中的节点
-5. 删除链表的倒数第N个节点
-6. 链表相交
-7. 环形链表II
+1. 移除链表元素 [力扣](https://leetcode.cn/problems/remove-linked-list-elements/description/)
+2. 设计链表 [力扣]()
+3. 翻转链表 [力扣](https://leetcode.cn/problems/reverse-linked-list/description/)
+4. 两两交换链表中的节点 [力扣](https://leetcode.cn/problems/swap-nodes-in-pairs/description/)
+5. 删除链表的倒数第N个节点 [力扣](https://leetcode.cn/problems/remove-nth-node-from-end-of-list/description/)
+6. 链表相交 [力扣](https://leetcode.cn/problems/intersection-of-two-linked-lists-lcci/description/)
+7. 环形链表II [力扣](https://leetcode.cn/problems/linked-list-cycle-ii/description/)
 
 ## 哈希表
 
@@ -46,6 +48,8 @@
 ## 回溯算法
 
 ## 贪心算法
+
+1. 分发饼干 [力扣](https://leetcode.cn/problems/assign-cookies/description/)
 
 ## 动态规划
 
