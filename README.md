@@ -49,4 +49,10 @@
 
 ## 动态规划
 
-1.  [斐波那契数列](https://programmercarl.com/0509.%E6%96%90%E6%B3%A2%E9%82%A3%E5%A5%91%E6%95%B0.html#%E7%AE%97%E6%B3%95%E5%85%AC%E5%BC%80%E8%AF%BE)
+1. [斐波那契数列](https://programmercarl.com/0509.%E6%96%90%E6%B3%A2%E9%82%A3%E5%A5%91%E6%95%B0.html#%E7%AE%97%E6%B3%95%E5%85%AC%E5%BC%80%E8%AF%BE) [力扣](https://leetcode.cn/problems/fibonacci-number/description/)
+2. 爬楼梯 [力扣](https://leetcode.cn/problems/climbing-stairs/description/)
+3. 使用最小花费爬楼梯 [力扣](https://leetcode.cn/problems/min-cost-climbing-stairs/description/)
+4. 不同路径 [力扣](https://leetcode.cn/problems/unique-paths/description/)
+5. 不同路径II [力扣](https://leetcode.cn/problems/unique-paths-ii/description/)
+6. 整数拆分 [力扣](https://leetcode.cn/problems/integer-break/description/)
+7. 不同的二叉搜索树 [力扣](https://leetcode.cn/problems/unique-binary-search-trees/description/)
