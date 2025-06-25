@@ -24,10 +24,13 @@
 
 ## 哈希表
 
-1. 有效的字母异位词
-2. 两个数组的交集
-3. 快乐数
-4. 两数之和
+1. 有效的字母异位词 [力扣](https://leetcode.cn/problems/valid-anagram/description/)
+2. 两个数组的交集 [力扣](https://leetcode.cn/problems/intersection-of-two-arrays/description/)
+3. 快乐数 [力扣](https://leetcode.cn/problems/happy-number/description/)
+4. 两数之和 [力扣](https://leetcode.cn/problems/two-sum/description/)
+5. 四数相加 [力扣](https://leetcode.cn/problems/4sum-ii/description/)
+6. 赎金信 [力扣](https://leetcode.cn/problems/ransom-note/description/)
+7. 三数之和 [力扣](https://leetcode.cn/problems/3sum/description/)
 
 ## 字符串
 
