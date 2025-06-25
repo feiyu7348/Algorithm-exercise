@@ -43,6 +43,10 @@
 
 ## 栈与队列
 
+1. 有效的括号 [力扣](https://leetcode.cn/problems/valid-parentheses/description/)
+2. 删除字符串中的所有相邻重复项 [力扣](https://leetcode.cn/problems/remove-all-adjacent-duplicates-in-string/description/)
+3. 逆波兰表达式求值 [力扣](https://leetcode.cn/problems/evaluate-reverse-polish-notation/description/)
+
 ## 二叉树
 
 ## 回溯算法
@@ -53,7 +57,7 @@
 
 ## 动态规划
 
-1. [斐波那契数列](https://programmercarl.com/0509.%E6%96%90%E6%B3%A2%E9%82%A3%E5%A5%91%E6%95%B0.html#%E7%AE%97%E6%B3%95%E5%85%AC%E5%BC%80%E8%AF%BE) [力扣](https://leetcode.cn/problems/fibonacci-number/description/)
+1. 斐波那契数列 [力扣](https://leetcode.cn/problems/fibonacci-number/description/)
 2. 爬楼梯 [力扣](https://leetcode.cn/problems/climbing-stairs/description/)
 3. 使用最小花费爬楼梯 [力扣](https://leetcode.cn/problems/min-cost-climbing-stairs/description/)
 4. 不同路径 [力扣](https://leetcode.cn/problems/unique-paths/description/)
