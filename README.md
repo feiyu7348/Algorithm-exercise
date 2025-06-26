@@ -44,9 +44,11 @@
 
 ## 栈与队列
 
-1. 有效的括号 [力扣](https://leetcode.cn/problems/valid-parentheses/description/)
-2. 删除字符串中的所有相邻重复项 [力扣](https://leetcode.cn/problems/remove-all-adjacent-duplicates-in-string/description/)
-3. 逆波兰表达式求值 [力扣](https://leetcode.cn/problems/evaluate-reverse-polish-notation/description/)
+1. 用栈实现队列 [力扣](https://leetcode.cn/problems/implement-queue-using-stacks/description/)
+2. 用队列实现栈 [力扣](https://leetcode.cn/problems/implement-stack-using-queues/description/)
+3. 有效的括号 [力扣](https://leetcode.cn/problems/valid-parentheses/description/)
+4. 删除字符串中的所有相邻重复项 [力扣](https://leetcode.cn/problems/remove-all-adjacent-duplicates-in-string/description/)
+5. 逆波兰表达式求值 [力扣](https://leetcode.cn/problems/evaluate-reverse-polish-notation/description/)
 
 ## 二叉树
 
