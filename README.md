@@ -17,7 +17,7 @@
 ## 链表
 
 1. 移除链表元素 [力扣](https://leetcode.cn/problems/remove-linked-list-elements/description/)
-2. 设计链表 [力扣]()
+2. 设计链表 [力扣](https://leetcode.cn/problems/design-linked-list/description/)
 3. 翻转链表 [力扣](https://leetcode.cn/problems/reverse-linked-list/description/)
 4. 两两交换链表中的节点 [力扣](https://leetcode.cn/problems/swap-nodes-in-pairs/description/)
 5. 删除链表的倒数第N个节点 [力扣](https://leetcode.cn/problems/remove-nth-node-from-end-of-list/description/)
@@ -49,6 +49,12 @@
 3. 逆波兰表达式求值 [力扣](https://leetcode.cn/problems/evaluate-reverse-polish-notation/description/)
 
 ## 二叉树
+
+1. 前序遍历 [力扣](https://leetcode.cn/problems/binary-tree-preorder-traversal/description/)
+2. 中序遍历 [力扣](https://leetcode.cn/problems/binary-tree-inorder-traversal/description/)
+3. 后序遍历 [力扣](https://leetcode.cn/problems/binary-tree-postorder-traversal/description/)
+4. 层序遍历 [力扣](https://leetcode.cn/problems/binary-tree-level-order-traversal/description/)
+5. 翻转二叉树 [力扣](https://leetcode.cn/problems/invert-binary-tree/description/)
 
 ## 回溯算法
 
