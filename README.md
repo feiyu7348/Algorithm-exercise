@@ -57,6 +57,11 @@
 3. 后序遍历 [力扣](https://leetcode.cn/problems/binary-tree-postorder-traversal/description/)
 4. 层序遍历 [力扣](https://leetcode.cn/problems/binary-tree-level-order-traversal/description/)
 5. 翻转二叉树 [力扣](https://leetcode.cn/problems/invert-binary-tree/description/)
+6. 对称二叉树 [力扣](https://leetcode.cn/problems/symmetric-tree/description/)
+7. 二叉树的最大深度 [力扣](https://leetcode.cn/problems/maximum-depth-of-binary-tree/description/)
+8. 二叉树的最小深度 [力扣](https://leetcode.cn/problems/minimum-depth-of-binary-tree/description/)
+9. 完全二叉树的节点个数 [力扣](https://leetcode.cn/problems/count-complete-tree-nodes/description/)
+10. 平衡二叉树 [力扣](https://leetcode.cn/problems/balanced-binary-tree/description/)
 
 ## 回溯算法
 
