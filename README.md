@@ -69,7 +69,8 @@
 2. 组合总和 III [力扣](https://leetcode.cn/problems/combination-sum-iii/description/)
 3. 电话号码的字母组合 [力扣](https://leetcode.cn/problems/letter-combinations-of-a-phone-number/description/)
 4. 组合总和 [力扣](https://leetcode.cn/problems/combination-sum/description/)
-5. 分割回文串 [力扣](https://leetcode.cn/problems/palindrome-partitioning/description/)
+5. 子集 [力扣](https://leetcode.cn/problems/subsets/description/)
+6. 全排列 [力扣](https://leetcode.cn/problems/permutations/description/)
 
 ## 贪心算法
 
