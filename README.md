@@ -40,12 +40,13 @@
 2. 反转字符串II [力扣](https://leetcode.cn/problems/reverse-string-ii/description/)
 3. 翻转字符串里的单词 [力扣](https://leetcode.cn/problems/reverse-words-in-a-string/description/)
 4. 翻转字符串 [力扣](https://leetcode.cn/problems/rotate-string/description/)
-5. 字符串压缩 [力扣](https://leetcode.cn/problems/compress-string-lcci/description/)
-6. 验证回文串 [力扣](https://leetcode.cn/problems/XltzEq/description/)
-7. 无重复字符的最长子串 [力扣](https://leetcode.cn/problems/longest-substring-without-repeating-characters/description/)
-8. 实现 strStr() [力扣](https://leetcode.cn/problems/find-the-index-of-the-first-occurrence-in-a-string/description/)
-9. 重复的子字符串 [力扣](https://leetcode.cn/problems/repeated-substring-pattern/description/)
-10. 最长公共前缀 [力扣](https://leetcode.cn/problems/longest-common-prefix/description/)
+5. 字符串右旋转【动态口令】[力扣](https://leetcode.cn/problems/zuo-xuan-zhuan-zi-fu-chuan-lcof/description/)
+6. 字符串压缩 [力扣](https://leetcode.cn/problems/compress-string-lcci/description/)
+7. 验证回文串 [力扣](https://leetcode.cn/problems/XltzEq/description/)
+8. 无重复字符的最长子串 [力扣](https://leetcode.cn/problems/longest-substring-without-repeating-characters/description/)
+9. 实现 strStr() [力扣](https://leetcode.cn/problems/find-the-index-of-the-first-occurrence-in-a-string/description/)
+10. 重复的子字符串 [力扣](https://leetcode.cn/problems/repeated-substring-pattern/description/)
+11. 最长公共前缀 [力扣](https://leetcode.cn/problems/longest-common-prefix/description/)
 
 ## 双指针法
 
