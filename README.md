@@ -41,9 +41,10 @@
 3. 翻转字符串里的单词 [力扣](https://leetcode.cn/problems/reverse-words-in-a-string/description/)
 4. 字符串压缩 [力扣](https://leetcode.cn/problems/compress-string-lcci/description/)
 5. 验证回文串 [力扣](https://leetcode.cn/problems/XltzEq/description/)
-6. 无重复字符的最长子串
-7. 重复的子字符串
-8. 最长公共前缀 [力扣](https://leetcode.cn/problems/longest-common-prefix/description/)
+6. 无重复字符的最长子串 [力扣](https://leetcode.cn/problems/longest-substring-without-repeating-characters/description/)
+7. 实现 strStr() [力扣](https://leetcode.cn/problems/find-the-index-of-the-first-occurrence-in-a-string/description/)
+8. 重复的子字符串 [力扣](https://leetcode.cn/problems/repeated-substring-pattern/description/)
+9. 最长公共前缀 [力扣](https://leetcode.cn/problems/longest-common-prefix/description/)
 
 ## 双指针法
 
@@ -90,3 +91,5 @@
 5. 不同路径II [力扣](https://leetcode.cn/problems/unique-paths-ii/description/)
 6. 整数拆分 [力扣](https://leetcode.cn/problems/integer-break/description/)
 7. 不同的二叉搜索树 [力扣](https://leetcode.cn/problems/unique-binary-search-trees/description/)
+8. 最长重复子数组 [力扣](https://leetcode.cn/problems/maximum-length-of-repeated-subarray/description/)
+9. 最长公共子序列 [力扣](https://leetcode.cn/problems/longest-common-subsequence/description/)
