@@ -90,3 +90,4 @@
 5. 不同路径II [力扣](https://leetcode.cn/problems/unique-paths-ii/description/)
 6. 整数拆分 [力扣](https://leetcode.cn/problems/integer-break/description/)
 7. 不同的二叉搜索树 [力扣](https://leetcode.cn/problems/unique-binary-search-trees/description/)
+8. 0-1背包 [代码随想录](https://programmercarl.com/%E8%83%8C%E5%8C%85%E7%90%86%E8%AE%BA%E5%9F%BA%E7%A1%8001%E8%83%8C%E5%8C%85-1.html)
