@@ -1,4 +1,4 @@
-package strings
+package MyStrings
 
 // 解法一 位图
 func lengthOfLongestSubstring(s string) int {
