@@ -1,4 +1,4 @@
-package Mystrings
+package MyStrings
 
 func reverseWords(s string) string {
 	n := len(s)

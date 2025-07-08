@@ -1,4 +1,4 @@
-package Mystrings
+package MyStrings
 
 func reverseString(s []byte) {
 	n := len(s)
