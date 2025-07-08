@@ -1,0 +1,18 @@
+package MyStrings
+
+func longestCommonPrefix(strs []string) string {
+	n := len(strs)
+	if n == 0 {
+		return ""
+	}
+
+	for i := 0; i < len(strs[0]); i++ {
+		c := strs[0][i]
+		for j := 1; j < len(strs); j++ {
+			if strs[j][i] != c || i == len(strs[j]) {
+				return strs[0][:i]
+			}
+		}
+	}
+	return strs[0]
+}
